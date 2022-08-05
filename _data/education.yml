@@ -1,13 +1,32 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: Ph.D. Biology (with Honors)
+  uni: University of Vienna
+  year: 2013 &mdash; 2017
+  # awards:
+  #   - award: Graduated with honors
+  summary: >
+    Focused on developing bioinformatic pipelines and performing statistical
+    analyses on large-scale genomic data sequenced from species in the genus
+    <i>Melampodium</i> to understand the evolution of their genomes,
+    phylogenetic history, and repetitive elements.
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+# Degree
+- degree: MSc. Biology
+  uni: Sam Houston State University
+  year: 2010 &mdash; 2012
+  # awards:
+  #   - award: Graduated with honors
+  summary: >
+    Conducted research on the population genetics and introduction history of
+    invasive (as well as horticulturally important) <i>Tamarix</i> species in
+    the American southwest with a strong focus on statistical analysis of
+    commonly-used molecular markers (at the time, microsatellites and
+    chloroplast loci).
+
+- degree: BSc. Biology
+  uni: Campbell University
+  year: 2005 &mdash; 2010
+  # awards:
+  #   - award: Summa Cumme Laude graduate
+  summary: >
+    Majored in biology with minors in both chemistry and environmental science.
