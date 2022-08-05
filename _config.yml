@@ -23,7 +23,11 @@ resume_contact_address:         "742 Evergreen Terrace, Springfield"
 resume_header_contact_info:     "Vienna, Austria • jamie.mccann@protonmail.com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: >
+  <p>Hello! I am a Data Scientist / Engineer with a diverse background in academia
+  and industry including the fields of biology, cybersecurity and healthcare. I have
+  several years of professional Python programming experience along with expertise in
+  Bayesian modeling, bioinformatics and machine learning.</p>
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -51,8 +55,8 @@ resume_social_links:
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/jamie-mccann0809/"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://joelglovier.com"
-  resume_medium_url:            "https://medium.com/@jglovier"
+  resume_website_url:           "http://jamie-mccann.github.io"
+  # resume_medium_url:            "https://medium.com/@jamie.mccann"
 resume_print_social_links:      true
 
 # Design settings
