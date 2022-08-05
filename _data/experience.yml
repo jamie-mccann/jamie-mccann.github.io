@@ -1,19 +1,59 @@
 # Jobs
 # VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- position: Data Engineer
+  company: Bitpanda
+  duration: Mar, 2022 &mdash; Present
+  summary: >
+    Helping build the company's data platform by setting up our database
+    migrations CI pipeline with Flyway and Gitlab, writing DAGs and general
+    Python abstractions for our Apache Airflow pipelines (via Astronomer)
+    between, e.g. external APIs and our Snowflake data platform.
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- position: Data Scientist
+  company: Solgenium GmbH
+  duration: Jan, 2021 &mdash; Feb, 2022
+  summary: >
+    Implemented the integration of statistical models into production for the
+    company's main product (for healthcare workforce management); managed
+    projects with healthcare clients to provide well-tested model predictions
+    (from Bayesian GLMs) pertaining to staffing at healthcare institutions;
+    managed Postgres data warehouse derived from past client data; Models and
+    production code were written in a mixture of Python, R and SQL.
 
+- position: Postdoctoral Researcher
+  company: Czech Academy of Sciences
+  duration: Feb, 2020 &mdash; Dec, 2020
+  summary: >
+    Extended the capabilities of the RepeatExplorer Pipeline by developing
+    additional modules for detecting underlying structure of clustering results;
+    Developed, tested and integrated numerous approaches to solving such
+    problems including Bayesian models, hidden Markov models and simple
+    heuristics using state-of-the-art machine learning libraries such as
+    Pytorch, Jax and PyMC in Python.
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- position: Researcher / Software Developer
+  company: Radar Cyber Security GmbH
+  duration: Mar, 2019 &mdash; Dec, 2019
+  start_date: 2019/03
+  end_date: 2019/12
+  summary: >
+    Researched, implemented and tested numerous novel statistical and deep
+    learning models for anomaly detection in the field of cybersecurity;
+    constructed predictive models using techniques such as dimensionality
+    reduction (PCA, t-SNE, UMAP), Gaussian mixture models, variational
+    autoencoders and other neural network models (RNNs, CNNs, etc.) tailored to
+    company cybersecurity data; models were mainly implemented in Python using
+    Tensorflow, PyTorch and other machine learning / statistical library
+    mainstays.
+
+- position: Postdoctoral Researcher
+  company: Universität für Bodenkultur Wien
+  duration: Feb, 2018 &mdash; Mar, 2019
+  summary: >
+    Performed genetic analysis of cultivated sugar beets and their wild
+    relatives to better understand the geographical and genetic context for
+    improving breeding programs and sugar production; developed statistical
+    bioinformatic pipelines for analyzing large-scale genomic data;
+    implementation of various steps in the pipeline included Illumina read
+    mapping, dimensionality reduction and spatial genetic analysis to identify
+    correlations between important biological traits and geography.
