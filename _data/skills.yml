@@ -2,12 +2,30 @@
 # Organizational leadership
 - skill: Spoken Languages
   description: >
-    Native English speaker (American), B1 certified German level
+    I am a native English speaker (American) and I have B1 level (certified)
+    German.
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Programming
+  description: >
+    I have been working in Python for around 10 years, but I also have a lot of
+    experience in shell scripting / Linux (8 years), R (7 years) and SQL (4
+    Years) and I am currently learning Scala. I have also been using Git
+    essentially since I started programming.
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Libraries and Frameworks
+  description: >
+    I have a lot of experience with the common machine learning
+    libraries like Tensorflow and PyTorch, plus a large amount of the Python
+    standard library. Both in work and personal projects I am using Apache Airflow
+    for ETL pipelines, Alembic / SQLalchemy for database and migrations, Docker
+    and the Github Container Registry for building and storing images. I also have
+    a good amount of experience with Github Actions and Gitlab CI/CD.
+
+- skill: Cloud Experience
+  description: >
+    In past work and personal projects I have used Google Cloud Platform and
+    Amazon Web Services including managing data warehouses in BigQuery and
+    RedShift, using cloud storage services like GCS and S3, as well as Cloud
+    Composer and MWAA for Airflow pipelines. Recently, I have also started using
+    Snowflake for data warehouse solutions and the Astronomer service for
+    Airflow.

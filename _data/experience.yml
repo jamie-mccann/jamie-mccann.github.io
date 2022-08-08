@@ -57,3 +57,26 @@
     implementation of various steps in the pipeline included Illumina read
     mapping, dimensionality reduction and spatial genetic analysis to identify
     correlations between important biological traits and geography.
+
+- position: Postdoctoral Researcher
+  company: Universität Wien
+  duration: Jun, 2017 &mdash; Feb, 2018
+  summary: >
+    Continued working in the lab where I finished my Ph.D. research to finish up
+    any leftover work (mainly submitting manuscripts) and setting up the
+    bioinformatic pipelines for the research group's work on Bell Pepper
+    genomes; This pipeline included implementing and running some Bayesian
+    statistical modeling of phylogenetic relationships among wild and cultivated
+    chili pepper species.
+
+- position: Doctoral Researcher
+  company: Universität Wien
+  duration: Jan, 2013 &mdash; June, 2017
+  summary: >
+    Implemented a bioinformatic pipeline for analysis of chromosome number
+    evolution in wild Mexican daisies; devised a method (hack) for performing
+    phylogenetic analysis of polyploid species; developed a new method for
+    analyzing relationships between plant species using a Bayesian approach and
+    cluster sizes of transposable elements. See my
+    <a href='https://www.researchgate.net/profile/Jamie-Mccann-2'>ResearchGate profile</a>
+    for publications and other research activities.
