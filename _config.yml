@@ -24,10 +24,11 @@ resume_header_contact_info:     "Vienna, Austria • jamie.mccann@protonmail.com
 display_header_contact_info:    "true"
 
 resume_header_intro: >
-  <p>Hello! I am a Data Scientist / Engineer with a diverse background in academia
-  and industry including the fields of biology, cybersecurity and healthcare. I have
-  several years of professional Python programming experience along with expertise in
-  Bayesian modeling, bioinformatics and machine learning.</p>
+  <p>Hello! I am a data scientist with a diverse background in academia and
+  industry including work in the fields of biology, cybersecurity and
+  healthcare. I have several years of professional Python programming experience
+  along with expertise in Bayesian modeling, bioinformatics and machine
+  learning.</p>
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -39,12 +40,12 @@ resume_looking_for_work:        "yes"
 # comment out to hide
 resume_section_experience:      true
 resume_section_education:       true
-resume_section_projects:        true
+resume_section_projects:        false
 resume_section_skills:          true
-resume_section_recognition:     true
-resume_section_links:           true
-resume_section_associations:    true
-# resume_section_interests:       true
+resume_section_recognition:     false
+resume_section_links:           false
+resume_section_associations:    false
+resume_section_interests:       true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
@@ -56,7 +57,7 @@ resume_social_links:
   resume_linkedin_url:          "https://www.linkedin.com/in/jamie-mccann0809/"
   # resume_instagram_url:         "insert your Instagram URL here"
   resume_website_url:           "http://jamie-mccann.github.io"
-  # resume_medium_url:            "https://medium.com/@jamie.mccann"
+  resume_medium_url:            "https://medium.com/@jamie.mccann"
 resume_print_social_links:      true
 
 # Design settings
